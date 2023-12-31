@@ -1,0 +1,12 @@
+C:\Users\legen\source\repos\barkod\barkod\bin\Debug\barkod.exe.config
+C:\Users\legen\source\repos\barkod\barkod\bin\Debug\barkod.exe
+C:\Users\legen\source\repos\barkod\barkod\bin\Debug\barkod.pdb
+C:\Users\legen\source\repos\barkod\barkod\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\legen\source\repos\barkod\barkod\obj\Debug\barkod.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\barkod\barkod\obj\Debug\barkod.Form1.resources
+C:\Users\legen\source\repos\barkod\barkod\obj\Debug\barkod.Properties.Resources.resources
+C:\Users\legen\source\repos\barkod\barkod\obj\Debug\barkod.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\barkod\barkod\obj\Debug\barkod.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\barkod\barkod\obj\Debug\barkod.csproj.CopyComplete
+C:\Users\legen\source\repos\barkod\barkod\obj\Debug\barkod.exe
+C:\Users\legen\source\repos\barkod\barkod\obj\Debug\barkod.pdb
